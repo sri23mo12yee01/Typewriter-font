@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Swanky+and+Moo+Moo&display=swap');
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color:#f6f6f6;
+  color:#000;
+}
+
+.typewrite > .wrap { 
+  color: #000;
+  font-family: 'Swanky and Moo Moo', cursive;
+}
+
+* {
+  color:#000; text-decoration: none; 
+}
